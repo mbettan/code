@@ -1,5 +1,3 @@
-## Generate a human readable 'random' password
-## password  will be generated in the form 'word'+digits+'word' 
           import string
           import random
           
